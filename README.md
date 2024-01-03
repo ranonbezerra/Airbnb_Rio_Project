@@ -1,5 +1,11 @@
 # Airbnb Rio Project
- Project to predict the value of a place posted on Airbnb based on latitude, longitude, number of rooms and 29 other features.
+ Project to predict the value of a place posted on Airbnb based on latitude, longitude, number of rooms and 29 other features. Deploy on Streamlit.
+ 
+![output_2](https://github.com/ranonbezerra/Airbnb_Rio_Project/assets/143265690/cce24cc7-46ba-4938-b8a3-cb2caba81779)
+
+![output_4](https://github.com/ranonbezerra/Airbnb_Rio_Project/assets/143265690/5562e860-5cdc-49fc-8c80-7714492599c1)
+
+![streamlit_page](https://github.com/ranonbezerra/Airbnb_Rio_Project/assets/143265690/d33fde23-a37a-4405-b429-c66cb6314f2b)
 
 # Project Context
 
